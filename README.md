@@ -1,4 +1,3 @@
-# gmail-to-sheets
 # Gmail to Google Sheets Automation
 
 **Author:** Akshat Jain
