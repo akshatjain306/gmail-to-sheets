@@ -11,10 +11,13 @@ from a Gmail account and logs them into a Google Sheet using Google APIs.
 ## 🏗️ Architecture
 Gmail (Unread Emails)
         ↓
+        
 Gmail API (OAuth 2.0)
         ↓
+        
 Python Automation Script
         ↓
+        
 Google Sheets API
 
 ---
